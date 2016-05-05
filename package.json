@@ -1,0 +1,11 @@
+{
+  "name": "Test",
+  "description": "",
+  "homepage": "",
+  "bugs": "",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
